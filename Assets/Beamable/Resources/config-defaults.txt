@@ -1,0 +1,8 @@
+{
+    "cid": "1760860283062296",
+    "alias": "uprising-labs",
+    "pid": "DE_1795922961378330",
+    "platform": "",
+    "socket": "",
+    "containerPrefix": ""
+}
